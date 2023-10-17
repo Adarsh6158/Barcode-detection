@@ -24,10 +24,15 @@ Barcode detection is a fundamental component of various applications, including 
 </p>
 
 **How to Run:**
--import necessaary modules like pyzbar,cv2
--for Barcode detection=> python detect_barcode_opencv.py --image images/barcode1.jpeg
--for Barcode data and format =>python barcode_detect_and_decode.py --image images/barcode_01.jpg
+- import necessaary modules like pyzbar,cv2
+- for Barcode detection=> python detect_barcode_opencv.py --image images/barcode1.jpeg
+- for Barcode data and format =>python barcode_detect_and_decode.py --image images/barcode_01.jpg
 
-## 🔗 Links
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
-- [GitHub Repository](https://github.com/your-username/your-barcode-detection-project)
+## Support
+
+For support, email adarsh6158@gmail.com.
+
+## 🔗 Link\
+
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-35a9931ba/)
