@@ -13,8 +13,7 @@ Barcode detection is a fundamental component of various applications, including 
 ## Screenshots
 
 <p align="center">
-  <img src="https://github.com/Adarsh6158/Barcode-detection/assets/119891550/499c905f-4dd5-4955-b63f-1948da759c4f
-" alt="Screenshot 1" width="400">
+  <img src="https://github.com/Adarsh6158/Barcode-detection/assets/119891550/499c905f-4dd5-4955-b63f-1948da759c4f" alt="Screenshot 1" width="400">
   <br>
   <em>An example of barcode detection in an image.</em>
 </p>
