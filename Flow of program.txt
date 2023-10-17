@@ -1,0 +1,18 @@
+Grayscale Image
+|                                  
+ Calculate Gradient                 Gradient = gradX - gradY
+ (using Sobel kernel)
+  |
+   Blur Image
+   (3x3 kernel)
+     |
+       Binary Threshold
+       At 225 intensity
+       |
+         Morphology using 21x7 kernel as
+         structuring element
+          |
+          Erosion and dilation
+           4 iterations each
+           |
+            Find 'k' biggest contours
